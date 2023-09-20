@@ -21,13 +21,13 @@ export const Hero = () => {
       <div className="flex relative z-20 flex-col gap-6 w-full lg:w-1/2 xl:mt-10">
         <div className="text-center leading-8 md:leading-10 md:text-left">
           <div className="inline-block">
-            <h1 className={title()}>Make&nbsp;</h1>
-            <h1 className={title({color: "violet"})}>beautiful&nbsp;</h1>
+            <h1 className={title()}>Fazer&nbsp;</h1>
+            <h1 className={title({color: "violet"})}>lindo&nbsp;</h1>
           </div>
-          <h1 className={title()}>websites regardless of your design experience.</h1>
+          <h1 className={title()}>sites, independentemente da sua experiência em design.</h1>
         </div>
         <h2 className={subtitle({fullWidth: true, class: "text-center md:text-left"})}>
-          Beautiful, fast and modern React UI library.
+        Biblioteca React UI bonita, rápida e moderna.
         </h2>
         <div className="flex flex-col md:flex-row items-center gap-4">
           <Button
@@ -52,7 +52,7 @@ export const Hero = () => {
               });
             }}
           >
-            Get Started
+           Iniciar
           </Button>
 
           <Button
