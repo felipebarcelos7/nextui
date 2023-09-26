@@ -429,7 +429,7 @@ const CoverImgTemplate = (args: CardProps) => (
       <img
         alt="Relaxing app background"
         className="w-full h-full object-cover"
-        src="https://nextui.org/images/card-example-5.jpeg"
+        src="https://nextui.org/images/card-example-6.jpeg"
       />
       <CardFooter className="absolute bg-black/40 bottom-0 z-10 border-t border-default-600 dark:border-default-100">
         <div className="flex flex-grow gap-2 items-center">
